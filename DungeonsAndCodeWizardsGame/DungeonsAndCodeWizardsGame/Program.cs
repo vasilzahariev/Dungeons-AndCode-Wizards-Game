@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using DungeonsAndCodeWizardsGame.Forms;
 
 namespace DungeonsAndCodeWizardsGame
 {
@@ -16,7 +17,8 @@ namespace DungeonsAndCodeWizardsGame
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new GameForm());
+
+            Application.Run(Engine.CreateHome());
         }
     }
 }

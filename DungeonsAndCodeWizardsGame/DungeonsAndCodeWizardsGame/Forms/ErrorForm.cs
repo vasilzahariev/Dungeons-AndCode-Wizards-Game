@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace DungeonsAndCodeWizardsGame
 {
-    public partial class HomeForm : Form
+    public partial class ErrorForm : Form
     {
-        public HomeForm()
+        public ErrorForm()
         {
             InitializeComponent();
         }

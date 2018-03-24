@@ -1,4 +1,6 @@
-﻿namespace DungeonsAndCodeWizardsGame
+﻿using System;
+
+namespace DungeonsAndCodeWizardsGame
 {
     partial class GameForm
     {
@@ -50,7 +52,7 @@
             this.Console.ReadOnly = true;
             this.Console.Size = new System.Drawing.Size(511, 161);
             this.Console.TabIndex = 5;
-            this.Console.Text = "Welcom to Dungeons And Code Wizards Game!";
+            this.Console.Text = "Welcome to Dungeons And Code Wizards Game!\n";
             // 
             // JoinPartyBtn
             // 
@@ -61,6 +63,7 @@
             this.JoinPartyBtn.TabIndex = 6;
             this.JoinPartyBtn.Text = "Join Party";
             this.JoinPartyBtn.UseVisualStyleBackColor = true;
+            this.JoinPartyBtn.Click += new System.EventHandler(this.JoinPartyBtn_Click);
             // 
             // AddItemToPoolBtn
             // 
@@ -71,6 +74,7 @@
             this.AddItemToPoolBtn.TabIndex = 7;
             this.AddItemToPoolBtn.Text = "Add Item To Pool";
             this.AddItemToPoolBtn.UseVisualStyleBackColor = true;
+            this.AddItemToPoolBtn.Click += new System.EventHandler(this.AddItemToPoolBtn_Click);
             // 
             // PickUpItemBtn
             // 
@@ -81,6 +85,7 @@
             this.PickUpItemBtn.TabIndex = 8;
             this.PickUpItemBtn.Text = "Pick Up Item";
             this.PickUpItemBtn.UseVisualStyleBackColor = true;
+            this.PickUpItemBtn.Click += new System.EventHandler(this.PickUpItemBtn_Click);
             // 
             // UseItemBtn
             // 
@@ -151,6 +156,7 @@
             this.BackToMenuBtn.TabIndex = 15;
             this.BackToMenuBtn.Text = "Back To Menu";
             this.BackToMenuBtn.UseVisualStyleBackColor = true;
+            this.BackToMenuBtn.Click += new System.EventHandler(this.BackToMenuBtn_Click);
             // 
             // GameForm
             // 
@@ -177,7 +183,7 @@
 
         #endregion
 
-        private System.Windows.Forms.RichTextBox Console;
+        public System.Windows.Forms.RichTextBox Console;
         private System.Windows.Forms.Button JoinPartyBtn;
         private System.Windows.Forms.Button AddItemToPoolBtn;
         private System.Windows.Forms.Button PickUpItemBtn;

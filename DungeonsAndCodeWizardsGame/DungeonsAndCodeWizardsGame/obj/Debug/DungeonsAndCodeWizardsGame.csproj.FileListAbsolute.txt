@@ -9,3 +9,18 @@ C:\Users\Logotobg\Desktop\Projects\DungeonsAndCodeWizards\DungeonsAndCodeWizards
 C:\Users\Logotobg\Desktop\Projects\DungeonsAndCodeWizards\DungeonsAndCodeWizardsGame\DungeonsAndCodeWizardsGame\obj\Debug\DungeonsAndCodeWizardsGame.pdb
 C:\Users\Logotobg\Desktop\Projects\DungeonsAndCodeWizards\DungeonsAndCodeWizardsGame\DungeonsAndCodeWizardsGame\obj\Debug\DungeonsAndCodeWizardsGame.csprojResolveAssemblyReference.cache
 C:\Users\Logotobg\Desktop\Projects\DungeonsAndCodeWizards\DungeonsAndCodeWizardsGame\DungeonsAndCodeWizardsGame\obj\Debug\DungeonsAndCodeWizardsGame.GameForm.resources
+C:\Users\vasil\Desktop\Projects\Dungeons And Code Wizards Game\Dungeons-AndCode-Wizards-Game\DungeonsAndCodeWizardsGame\DungeonsAndCodeWizardsGame\bin\Debug\DungeonsAndCodeWizardsGame.exe.config
+C:\Users\vasil\Desktop\Projects\Dungeons And Code Wizards Game\Dungeons-AndCode-Wizards-Game\DungeonsAndCodeWizardsGame\DungeonsAndCodeWizardsGame\bin\Debug\DungeonsAndCodeWizardsGame.exe
+C:\Users\vasil\Desktop\Projects\Dungeons And Code Wizards Game\Dungeons-AndCode-Wizards-Game\DungeonsAndCodeWizardsGame\DungeonsAndCodeWizardsGame\bin\Debug\DungeonsAndCodeWizardsGame.pdb
+C:\Users\vasil\Desktop\Projects\Dungeons And Code Wizards Game\Dungeons-AndCode-Wizards-Game\DungeonsAndCodeWizardsGame\DungeonsAndCodeWizardsGame\obj\Debug\DungeonsAndCodeWizardsGame.GameForm.resources
+C:\Users\vasil\Desktop\Projects\Dungeons And Code Wizards Game\Dungeons-AndCode-Wizards-Game\DungeonsAndCodeWizardsGame\DungeonsAndCodeWizardsGame\obj\Debug\DungeonsAndCodeWizardsGame.HomeForm.resources
+C:\Users\vasil\Desktop\Projects\Dungeons And Code Wizards Game\Dungeons-AndCode-Wizards-Game\DungeonsAndCodeWizardsGame\DungeonsAndCodeWizardsGame\obj\Debug\DungeonsAndCodeWizardsGame.Properties.Resources.resources
+C:\Users\vasil\Desktop\Projects\Dungeons And Code Wizards Game\Dungeons-AndCode-Wizards-Game\DungeonsAndCodeWizardsGame\DungeonsAndCodeWizardsGame\obj\Debug\DungeonsAndCodeWizardsGame.csproj.GenerateResource.Cache
+C:\Users\vasil\Desktop\Projects\Dungeons And Code Wizards Game\Dungeons-AndCode-Wizards-Game\DungeonsAndCodeWizardsGame\DungeonsAndCodeWizardsGame\obj\Debug\DungeonsAndCodeWizardsGame.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Desktop\Projects\Dungeons And Code Wizards Game\Dungeons-AndCode-Wizards-Game\DungeonsAndCodeWizardsGame\DungeonsAndCodeWizardsGame\obj\Debug\DungeonsAndCodeWizardsGame.exe
+C:\Users\vasil\Desktop\Projects\Dungeons And Code Wizards Game\Dungeons-AndCode-Wizards-Game\DungeonsAndCodeWizardsGame\DungeonsAndCodeWizardsGame\obj\Debug\DungeonsAndCodeWizardsGame.pdb
+C:\Users\vasil\Desktop\Projects\Dungeons And Code Wizards Game\Dungeons-AndCode-Wizards-Game\DungeonsAndCodeWizardsGame\DungeonsAndCodeWizardsGame\obj\Debug\DungeonsAndCodeWizardsGame.csprojResolveAssemblyReference.cache
+C:\Users\vasil\Desktop\Projects\Dungeons And Code Wizards Game\Dungeons-AndCode-Wizards-Game\DungeonsAndCodeWizardsGame\DungeonsAndCodeWizardsGame\obj\Debug\DungeonsAndCodeWizardsGame.JoinPartyForm.resources
+C:\Users\vasil\Desktop\Projects\Dungeons And Code Wizards Game\Dungeons-AndCode-Wizards-Game\DungeonsAndCodeWizardsGame\DungeonsAndCodeWizardsGame\obj\Debug\DungeonsAndCodeWizardsGame.ErrorForm.resources
+C:\Users\vasil\Desktop\Projects\Dungeons And Code Wizards Game\Dungeons-AndCode-Wizards-Game\DungeonsAndCodeWizardsGame\DungeonsAndCodeWizardsGame\obj\Debug\DungeonsAndCodeWizardsGame.Forms.AddItemToPoolForm.resources
+C:\Users\vasil\Desktop\Projects\Dungeons And Code Wizards Game\Dungeons-AndCode-Wizards-Game\DungeonsAndCodeWizardsGame\DungeonsAndCodeWizardsGame\obj\Debug\DungeonsAndCodeWizardsGame.Forms.PickUpItemForm.resources

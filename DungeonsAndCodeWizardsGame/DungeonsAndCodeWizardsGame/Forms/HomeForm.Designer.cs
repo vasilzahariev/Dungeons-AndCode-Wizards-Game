@@ -57,6 +57,7 @@
             this.PlayBtn.TabIndex = 1;
             this.PlayBtn.Text = "Play";
             this.PlayBtn.UseVisualStyleBackColor = true;
+            this.PlayBtn.Click += new System.EventHandler(this.PlayBtn_Click);
             // 
             // RulesBtn
             // 
@@ -77,6 +78,7 @@
             this.ExitBtn.TabIndex = 3;
             this.ExitBtn.Text = "Exit";
             this.ExitBtn.UseVisualStyleBackColor = true;
+            this.ExitBtn.Click += new System.EventHandler(this.ExitBtn_Click);
             // 
             // Console
             // 
@@ -87,7 +89,7 @@
             this.Console.ReadOnly = true;
             this.Console.Size = new System.Drawing.Size(511, 161);
             this.Console.TabIndex = 4;
-            this.Console.Text = "Welcom to Dungeons And Code Wizards Game!";
+            this.Console.Text = "Welcome to Dungeons And Code Wizards Game!";
             // 
             // HomeForm
             // 
@@ -112,7 +114,7 @@
         private System.Windows.Forms.Button PlayBtn;
         private System.Windows.Forms.Button RulesBtn;
         private System.Windows.Forms.Button ExitBtn;
-        private System.Windows.Forms.RichTextBox Console;
+        public System.Windows.Forms.RichTextBox Console;
     }
 }
 
